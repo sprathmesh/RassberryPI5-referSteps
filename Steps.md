@@ -11,7 +11,7 @@
 2. Attach a monitor and open the terminal.
 3. Update system packages:
    ```sh
-   sudo apt-get update && sudo apt-get upgrade -y
+   sudo apt-get update
    ```
 
 ## 3. Installing K3s Kubernetes Cluster (Single Node)
